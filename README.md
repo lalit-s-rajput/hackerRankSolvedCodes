@@ -1,1 +1,1 @@
-# hackerRankSolvedCodes
+# hackerRankSolvedPrograms
